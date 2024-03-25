@@ -7,18 +7,19 @@ This project contains code that lets users load ads , keeps record of events fir
 ## Tech Stack
 - React
 ## installation
-1. git clone  :
+1. clone the repository :
    ```bash
-   this will clone the repository to your local machine 
+   git clone https://github.com/melatteshome/validate_creative_tags.git
    ```
 
-2. npm insatll :
+2. install the required packages :
    ```bash
-   this will install all the packages that have been used to build this project 
+	npm install 
    ```
 
-3. run the project with npm "run-script" command adding one of the following at the end of the command based on your preferece 
+3. build the project:
    ```
+   npm run-script
 	  dev
 	    vite
 	  build

@@ -12,7 +12,8 @@ This project provides a codebase for loading ads, tracking events fired by the a
 
 Check out the video demonstration of the Validate Creative Tags in action:
 
-[![Validate Creative Tags](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtu.be/vbn-zItoM9Q)
+[![Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/vbn-zItoM9Q)
+
 
 ## Getting Started
 

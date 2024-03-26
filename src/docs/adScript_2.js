@@ -9,7 +9,8 @@ const adScriptContent = `
     "width": 320,
     "height": 480,
     "redirect_urls": [
-    "%%TTD_CLK%%https://www.ocado.com/products/wash-with-leaf-non-bio-laundry-sheets-25-600151011"
+    "%%TTD_CLK%%https://www.ocado.com/products/wash-with-leaf-non-bio-laundry-sheet
+    s-25-600151011"
     ],
     "third_party_engagement": [],
     "dsp": "TTD",

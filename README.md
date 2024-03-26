@@ -7,6 +7,12 @@ This project provides a codebase for loading ads, tracking events fired by the a
 -   Event Tracking: Records events fired by the ad while users interact with it.
 -   Event Comparison: Enables users to select and compare the tracked events with a set of expected events.
 -   Event Export: Facilitates exporting of tracked events, categorized into different groups.
+  
+## Video Demo
+
+Check out the video demonstration of the Validate Creative Tags in action:
+
+[![Validate Creative Tags](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://youtu.be/vbn-zItoM9Q)
 
 ## Getting Started
 

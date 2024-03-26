@@ -12,7 +12,8 @@ This project provides a codebase for loading ads, tracking events fired by the a
 
 Check out the video demonstration of the Validate Creative Tags in action:
 
-[![Video]](https://youtu.be/vbn-zItoM9Q)
+
+https://github.com/melatteshome/validate_creative_tags/assets/51263172/4075a734-8979-45ee-bc9e-85048d51fe78
 
 
 ## Getting Started
